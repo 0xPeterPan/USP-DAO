@@ -9,8 +9,9 @@ To get started, clone this repo and follow these commands:
 
 ### **USP DAO**
 This is the United States of Palestine DAO
-It is considered a place where you can show your Solidarity with the Palestinian 
-Have some questions make sure you head over to our Discord server so you can get access to helpful channels and share your thoughts on the Palestinan cause!
+
+It is considered a place where you can show your solidarity with the Palestinian people
+Have some questions make sure you head over to our Discord server so you can get access to helpful channels and share your thoughts on how to support the Palestinian cause!
 
 ### **The Palestinian Pound**
 This is going to be our coin, we decided to bring our currency back to life
