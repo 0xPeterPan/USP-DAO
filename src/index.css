@@ -5,8 +5,16 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #7700ee;
+  background-image: url("./assets/dome-rock-jerusalem.jpg");
   color: #fff;
   overflow-x: hidden;
+  height: 120vh;
+  text-align: center;  
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 #root {
   min-height: 100vh;
@@ -125,6 +133,7 @@ button {
   text-transform: uppercase;
   border-radius: 3rem;
   font-size: 1.2rem;
+  margin: auto;
 }
 
 button:hover {
@@ -136,6 +145,6 @@ button:focus {
 }
 
 button:disabled {
-  opacity: 0.8;
+  opacity: 0.75;
   pointer-events: none;
 }
